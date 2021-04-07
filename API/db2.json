@@ -1,0 +1,28 @@
+{
+    "artikel": [
+        {
+            "id": 1,
+            "title": "Best collection",
+            "description": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem.",
+            "img": "https://raw.githubusercontent.com/rizalanhari/API_React_UTS/master/img/img-3x2-01.jpg"
+        },
+        {
+            "id": 2,
+            "title": "New Design for your website",
+            "description": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem at nisl malesuada, quis.",
+            "img": "https://raw.githubusercontent.com/rizalanhari/API_React_UTS/master/img/img-3x2-02.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Most unique idea ever made",
+            "description": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas.",
+            "img": "https://raw.githubusercontent.com/rizalanhari/API_React_UTS/master/img/img-3x2-03.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Simple touch",
+            "description": "Please tell your friends about TemplateMo website. Thank you. Title / Text #666",
+            "img": "https://raw.githubusercontent.com/rizalanhari/API_React_UTS/master/img/img-3x2-04.jpg"
+        }
+    ]
+}
