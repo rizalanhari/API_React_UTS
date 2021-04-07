@@ -1,0 +1,22 @@
+{
+    "artikel": [
+        {
+            "id": 1,
+            "title": "BEST COLLECTION",
+            "description": "Aliquam purus arcu, congue a gravida ac, facilisis vel erat. Maecenas pretium sem.",
+            "img": "https://raw.githubusercontent.com/.jpg"
+        },
+        {
+            "id": 2,
+            "first_name": "Steve",
+            "last_name": "Palmer",
+            "email": "steve@codingthesmartway.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Ann",
+            "last_name": "Smith",
+            "email": "ann@codingthesmartway.com"
+        }
+    ]
+}
